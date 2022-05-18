@@ -238,3 +238,5 @@ function partial(name) {
   }
 
 }
+
+module.exports = evaluate_cmap;
