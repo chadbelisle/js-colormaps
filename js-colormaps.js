@@ -239,4 +239,4 @@ function partial(name) {
 
 }
 
-module.exports = evaluate_cmap;
+export { evaluate_cmap };
